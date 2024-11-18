@@ -13,6 +13,7 @@ python -m visdom.server >/dev/null 2>&1 &     # 8097端口
 可以实时生成Loss曲线、表格（Loss、每个iteration消耗时间、TGS）
 <img width="878" alt="visdom" src="https://github.com/user-attachments/assets/2c68bb29-136f-4829-a4e6-82a7fc6100b9">
 
+使用环境：ModelLink
 日志文件格式样式参考：
 ```
 ------------------------ arguments ------------------------
