@@ -2,6 +2,7 @@
 A progress for visualizing large model training with visdom
 
 安装visdom (https://github.com/fossasia/visdom)
+
 '''{shell}
 pip install visdom
 python -m visdom.server >/dev/null 2>&1 &     # 8097端口
